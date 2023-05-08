@@ -1,2 +1,6 @@
 # TABLEAU
-My Tableau project analyzed baby name data by ethnicity and gender. I created a dashboard to find the most common names and presented it to the company via PowerPoint. This project showcases my Tableau skills in data visualization and presenting insights.
+My Tableau project involved analyzing a database of popular baby names by ethnicity and gender, which presented a unique challenge of identifying patterns and trends across multiple dimensions. To tackle this, I designed an intuitive and visually appealing dashboard that allowed users to explore and filter data by different attributes such as ethnicity, gender, and year. This interactive dashboard helped answer the question "What are the most common children's names depending on ethnicity and gender?" and provided a clear understanding of the trends in baby names over time.
+
+In addition to the dashboard, I also created a detailed PowerPoint presentation that showcased my project to the company. The presentation included the problems I faced during the project such as data cleaning and wrangling, the steps I took to resolve them, and the final result. I also demonstrated how the dashboard interacted within the project to show the most common names based on user preferences in ethnicity and gender.
+
+Overall, this project not only demonstrates my proficiency in Tableau and data visualization but also my ability to analyze complex data sets and present insights in a clear and concise manner.
